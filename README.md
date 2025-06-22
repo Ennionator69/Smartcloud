@@ -20,7 +20,7 @@ Abgabe/
   - Virtual Machines
   - **Load Balancer** (für Traffic Distribution)
   - Security (Network Security Groups)
-  - File Share
+  
 
 ### IaaC_v5 - Ohne Load Balancer
 - **Hauptmerkmal**: Vereinfachte Architektur ohne Load Balancer
@@ -29,7 +29,7 @@ Abgabe/
   - Netzwerk (VNet, Subnets, VPN Gateway)
   - Virtual Machines
   - Security (Network Security Groups)
-  - File Share
+  
 
 ## Hauptunterschiede
 
